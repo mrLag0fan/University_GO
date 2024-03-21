@@ -1,0 +1,62 @@
+[
+  {
+    "start": "A",
+    "end": "B",
+    "stopsCount": 3,
+    "distance": 150.0
+  },
+  {
+    "start": "C",
+    "end": "D",
+    "stopsCount": 2,
+    "distance": 100.0
+  },
+  {
+    "start": "E",
+    "end": "F",
+    "stopsCount": 1,
+    "distance": 50.0
+  },
+  {
+    "start": "G",
+    "end": "H",
+    "stopsCount": 0,
+    "distance": 20.0
+  },
+  {
+    "start": "I",
+    "end": "J",
+    "stopsCount": 4,
+    "distance": 200.0
+  },
+  {
+    "start": "K",
+    "end": "L",
+    "stopsCount": 2,
+    "distance": 90.0
+  },
+  {
+    "start": "M",
+    "end": "N",
+    "stopsCount": 1,
+    "distance": 30.0
+  },
+  {
+    "start": "O",
+    "end": "P",
+    "stopsCount": 3,
+    "distance": 120.0
+  },
+  {
+    "start": "Q",
+    "end": "R",
+    "stopsCount": 2,
+    "distance": 80.0
+  },
+  {
+    "start": "S",
+    "end": "T",
+    "stopsCount": 5,
+    "distance": 250.0
+  }
+]
